@@ -32,4 +32,4 @@ The script is only capable of tracking the following data :
 **How to get the Post ID ?** : The post ID can be easily obtained through the [KoGaMa API](https://www.kogama.com/api/feed/0/)
 ![How to](https://cdn.discordapp.com/attachments/1264627993477906584/1327998417703665746/Test.jpg?ex=67851a67&is=6783c8e7&hm=cfe8a30adc9f311bdc10bf0cd55b7c52460eb401bbebb64d9b5de8d6bfdd715b&)
 
-**Mandatory Note** : You must make a post and then copy its ID using the feed API, if done correct, you'll be on track with the latest feeds being posted
+**Mandatory Note** : You must make a post and then copy its ID using the feed API and then paste it to the LAST_ID.txt, if done correct, you'll be on track with the latest feeds being posted
