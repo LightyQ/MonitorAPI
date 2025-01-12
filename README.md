@@ -27,7 +27,7 @@ The script is only capable of tracking the following data :
 
 # Safety And How To Use
 
-**LAST_ID Issues** : Sometimes the the LAST_ID.txt file cannot keep going on it own due to specific problems and this can a bit complex if host since it can end up doing a loop a whole loop from scratch.
+**LAST_ID Issues** : Sometimes the the LAST_ID.txt file cannot keep going on it own due to specific problems and this can a bit complex if using a host since it can end up doing a loop starting from the last ID you printed
 
 **How to get the Post ID ?** : The post ID can be easily obtained through the [KoGaMa API](https://www.kogama.com/api/feed/0/)
 ![How to](https://cdn.discordapp.com/attachments/1264627993477906584/1327968003823767624/image.png?ex=6784fe14&is=6783ac94&hm=ad2ce454973c400556d68fbb197831b923973e3dc9cdb0e55c0ba97dee1fa50c&)
