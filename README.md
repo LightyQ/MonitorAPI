@@ -30,6 +30,6 @@ The script is only capable of tracking the following data :
 **LAST_ID Issues** : Sometimes the the LAST_ID.txt file cannot keep going on it own due to specific problems and this can a bit complex if using a host since it can end up doing a loop starting from the last ID you printed
 
 **How to get the Post ID ?** : The post ID can be easily obtained through the [KoGaMa API](https://www.kogama.com/api/feed/0/)
-![How to](https://cdn.discordapp.com/attachments/1264627993477906584/1327968003823767624/image.png?ex=6784fe14&is=6783ac94&hm=ad2ce454973c400556d68fbb197831b923973e3dc9cdb0e55c0ba97dee1fa50c&)
+![How to](https://cdn.discordapp.com/attachments/1264627993477906584/1327998417703665746/Test.jpg?ex=67851a67&is=6783c8e7&hm=cfe8a30adc9f311bdc10bf0cd55b7c52460eb401bbebb64d9b5de8d6bfdd715b&)
 
 **Mandatory Note** : You must make a post and then copy its ID using the feed API, if done correct, you'll be on track with the latest feeds being posted
